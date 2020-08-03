@@ -5,15 +5,22 @@ In conjunction with **[ISPASS 2020](https://www.ispass.org/ispass2020)**
 
 ## Program
 
-| Speaker                                                      | Affiliation                      | Talk Title            |
-| ----                                                         | ----                             | ----                  |
-| [Vivienne Sze](https://www.csail.mit.edu/person/vivienne-sze)| MIT                              | [How to Evaluate Efficient Deep Neural Network Approaches](https://fastpath2020.github.io/Sze)                           |
-| [Grigori Fursin](https://fursin.net)                         | cKnowledge                       | [Enabling Reproducible ML&Systems Research: The Good, the Bad and the Ugly](https://fastpath2020.github.io/Fursin)                   |
-| [Yuhao Zhu](http://www.yuhaozhu.com/)                        | University of Rochester          | [Getting Computer Systems Ready for Visual Computing in Ten Years](https://fastpath2020.github.io/Zhu)                           |
-| [Leopold Grinberg](https://researcher.watson.ibm.com/researcher/view.php?person=us-leopoldgrinberg) | IBM Research  | [Unsupervised Training and Unified Global Address Spaces](https://fastpath2020.github.io/Grinberg)               |
-| [Colby Banbury](https://www.linkedin.com/in/colby-banbury-267956135) | Harvard University       | [tinyMLPerf: Benchmarking Ultra-low Power Machine Learning Systems](https://fastpath2020.github.io/Banbury)                       |
-| [Chuang Gan](https://mitibmwatsonailab.mit.edu/people/chuang-gan) | MIT-IBM Watson AI Lab       | [Pending]                                |
-| [Anju Kambadur](https://www.linkedin.com/in/anju-kambadur-48aa78162), [Ania Musial](https://www.linkedin.com/in/aniamusial), [Ian Hummel](https://www.linkedin.com/in/ihummel)                                                   | Bloomberg L.P.                   | [The Bloomberg Data Science Platform](https://fastpath2020.github.io/Kambadur)                                                     |
+| Time          | Speaker                                                       | Affiliation                      | Talk Title            |
+| ----          | ----                                                          | ----                             | ----                  |
+|  9:00 -  9:15 | Erik Altman, Parijat Dube, Vijay Janapa Reddi | FastPath Chairs                  | *Welcome*             |
+|  9:15 - 10:00 | [Vivienne Sze](https://www.csail.mit.edu/person/vivienne-sze) | MIT                              | [How to Evaluate Efficient Deep Neural Network Approaches](https://fastpath2020.github.io/Sze)                                 |
+| 10:00 - 10:45 | [Grigori Fursin](https://fursin.net)                          | cKnowledge                       | [Enabling Reproducible ML&Systems Research: The Good, the Bad and the Ugly](https://fastpath2020.github.io/Fursin)              |
+| 10:45 - 11:00 |                                                               |                                  | *Break*                 |
+| 11:00 - 11:30 | [Bochen Guan]                                                 | University of Wisconsin          | [*SpecNet: Spectral Domain Convolutional Neural Network*](https://fastpath2020.github.io/Guan)                                  |
+| 11:30 - 12:15 | [Yuhao Zhu](http://www.yuhaozhu.com/)                         | University of Rochester          | [Getting Computer Systems Ready for Visual Computing in Ten Years](https://fastpath2020.github.io/Zhu)                     |
+| 12:15 -  1:00 |                                                               |                                  | *Lunch*                 |
+|  1:00 -  1:45 | [Anju Kambadur](https://www.linkedin.com/in/anju-kambadur-48aa78162), [Ania Musial](https://www.linkedin.com/in/aniamusial), [Ian Hummel](https://www.linkedin.com/in/ihummel)                                           | Bloomberg L.P.                   | [The Bloomberg Data Science Platform](https://fastpath2020.github.io/Kambadur)                                                      |
+|  1:45 -  2:30 | [Chuang Gan](https://mitibmwatsonailab.mit.edu/people/chuang-gan) | MIT-IBM Watson AI Lab        | [Pending]               |
+|  2:30 -  2:45 |                                                               |                                  | *Break*                 |
+|  2:45 -  3:15 | [Ted Pyne]                                                    | Harvard University               | [*Quantifying the impact of data encoding on DNN fault tolerance*](https://fastpath2020.github.io/Pyne)                          |
+|  3:15 -  4:00 | [Colby Banbury](https://www.linkedin.com/in/colby-banbury-267956135) | Harvard University               | [tinyMLPerf: Benchmarking Ultra-low Power Machine Learning Systems](https://fastpath2020.github.io/Banbury)               |
+|  4:00 -  4:15 |                                                               |                                  | *Break*                 |
+|  4:15 -  5:00 | [Leopold Grinberg](https://researcher.watson.ibm.com/researcher/view.php?person=us-leopoldgrinberg) | IBM Research  | [Unsupervised Training and Unified Global Address Spaces](https://fastpath2020.github.io/Grinberg)         |
 
 ## Technical Papers
 
