@@ -12,7 +12,7 @@ In conjunction with **[ISPASS 2020](https://www.ispass.org/ispass2020)**
 | [Yuhao Zhu](http://www.yuhaozhu.com/)                        | University of Rochester          | [Getting Computer Systems Ready for Visual Computing in Ten Years](https://fastpath2020.github.io/Zhu)                           |
 | [Leopold Grinberg](https://researcher.watson.ibm.com/researcher/view.php?person=us-leopoldgrinberg) | IBM Research  | [Unsupervised Training and Unified Global Address Spaces](https://fastpath2020.github.io/Grinberg)               |
 | [Colby Banbury](https://www.linkedin.com/in/colby-banbury-267956135) | Harvard University       | [tinyMLPerf: Benchmarking Ultra-low Power Machine Learning Systems](https://fastpath2020.github.io/Banbury)                       |
-| [Chuang Gan](https://mitibmwatsonailab.mit.edu/people/chuang-gan) | IBM                          | [Pending]                                |
+| [Chuang Gan](https://mitibmwatsonailab.mit.edu/people/chuang-gan) | MIT-IBM Watson AI Lab       | [Pending]                                |
 | [Anju Kambadur](https://www.linkedin.com/in/anju-kambadur-48aa78162), [Ania Musial](https://www.linkedin.com/in/aniamusial), [Ian Hummel](https://www.linkedin.com/in/ihummel)                                                   | Bloomberg L.P.                   | [The Bloomberg Data Science Platform](https://fastpath2020.github.io/Kambadur)                                                     |
 
 ## Technical Papers
