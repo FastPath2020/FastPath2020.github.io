@@ -3,6 +3,8 @@
 
 ### Invited Talk:  *How to Evaluate Efficient Deep Neural Network Approaches*
 
+**[Talk Video](https://youtu.be/HTu7RokJsxc)**
+
 **Abstract:**
 
  Enabling the efficient processing of deep neural networks (DNNs) has becoming increasingly important to enable the deployment of DNNs on a wide range of platforms, for a wide range of applications. To address this need, there has been a significant amount of work in recent years on designing DNN accelerators and developing approaches for efficient DNN processing that spans the computer vision, machine learning, and hardware/systems architecture communities. Given the volume of work, it would not be feasible to cover them all in a single talk. Instead, this talk will focus on *how* to evaluate these different approaches, which include the design of DNN accelerators and DNN models. It will also highlight the key metrics that should be measured and compared and present tools that can assist in the evaluation. 
