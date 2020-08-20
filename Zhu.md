@@ -4,6 +4,9 @@
 
 ### Invited Talk:  *Getting Computer Systems Ready for Visual Computing in Ten Years*
 
+**[Talk Video](https://drive.google.com/file/d/1YLYDe2xRvxT7mslKvK3sJPqXxv3Tb0Va/view?usp=sharing)**
+
+
 **Abstract**
 
 Addressing the world's more pressing issues such as environmental sustainability and cultural heritage preservation increasingly relies on diverse visual applications running on emerging platforms such as AR/VR headsets, autonomous machines, and smart sensor nodes. In real-time and using low power, visual computing systems must generate visual data for human to consume, immersively, or interpret visual data to provide personalized services, intelligently.
