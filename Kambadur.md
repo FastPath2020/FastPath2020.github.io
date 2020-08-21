@@ -4,6 +4,9 @@
 
 ### Invited Talk:  *The Bloomberg Data Science Platform*
 
+**[Talk Video](https://app.shift.io/review/5f3c2fd1e4b0487181090297?t=chaas30%40bloomberg.net&signature=dbcb6d5db7e90b8aaeb586e3e77a9db42e5098d1&recipient=chaas30%40bloomberg.net)**
+
+
 **Abstract:**
 
 The Bloomberg Professional Service (aka "the Terminal") provides data, analytics, news, information and communication to professionals in business, finance, government, and philanthropy. Over the past decade, Bloomberg has invested heavily in three specialized areas in the field of AI: natural language processing (or, the application of machine learning methods to text), information retrieval and search, and core machine learning, including deep learning. 
