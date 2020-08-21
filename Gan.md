@@ -1,7 +1,8 @@
 ## Chuang Gan 
 ### Principal Research Staff Member - MIT-IBM Watson AI Lab
 
-### Invited Talk: *Multi-modality Learning from Videos*
+### Invited Talk: *Multimodal Intelligence*
+
  
 **Abstract:**
 
