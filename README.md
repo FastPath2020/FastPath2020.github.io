@@ -3,7 +3,7 @@ August 23, 2020 -- Virtual *(Approximately 9:00 am - 5:00 pm US EDT = 13:00 - 21
 
 In conjunction with **[ISPASS 2020](https://www.ispass.org/ispass2020)**
 
-**[Preliminary Program](https://fastpath2020.github.io/Program)** (Under Construction)
+**[Program](https://fastpath2020.github.io/Program)**
 
 ## News
 
