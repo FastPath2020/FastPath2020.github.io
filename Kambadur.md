@@ -4,8 +4,7 @@
 
 ### Invited Talk:  *The Bloomberg Data Science Platform*
 
-**[Talk Video](https://app.shift.io/review/5f3c2fd1e4b0487181090297?t=chaas30%40bloomberg.net&signature=dbcb6d5db7e90b8aaeb586e3e77a9db42e5098d1&recipient=chaas30%40bloomberg.net)**
-
+**[Talk Video](https://vimeo.com/450100249/d841c778ae)**
 
 **Abstract:**
 
