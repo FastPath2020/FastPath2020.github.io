@@ -5,7 +5,7 @@
 
 **Abstract:**
 
-10 years ago we released our novel ML-based MILEPOST compiler with all the related experimental data at cTuning.org. Unfortunately, this research quickly stalled after we struggled to reproduce performance results and predictive models shared by volunteers across rapidly changing systems.
+10 years ago we released our novel ML-based MILEPOST compiler with all the related experimental data at [cTuning.org](http://ctuning.org). Unfortunately, this research quickly stalled after we struggled to reproduce performance results and predictive models shared by volunteers across rapidly changing systems.
 
 In this talk, I will describe my 10-year effort to solve numerous reproducibility issues in ML&systems research. I will share my experience reproducing 150+ systems and ML papers during artifact evaluation at ASPLOS, MLSys, CGO, PPoPP and Supercomputing. This tedious experience motivated me to develop the cKnowledge.org framework and the open CodeReef.ai portal to bring DevOps principles to our research.  I will also present CodeReef solutions - a new way to package and share research artifacts and results with common Python APIs, CLI actions, portable workflows and JSON meta descriptions. Such solutions can be used to automatically build, benchmark and validate ML&system experiments across continuously evolving platforms.
 
