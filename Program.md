@@ -1,8 +1,9 @@
 ## PROGRAM - International Workshop on Performance Analysis of Machine Learning Systems
-Sunday, August 23, 2020 -- Virtual *(Approximately 9:00 am - 5:00 pm US EDT = 13:00 - 21:00 UTC)*
+Sunday, August 23, 2020 -- Virtual *(9:00 am - 5:00 pm US EDT = 13:00 - 21:00 UTC)*
 
 **[FastPath'2020](https://fastpath2020.github.io)** -- In conjunction with **[ISPASS 2020](https://www.ispass.org/ispass2020)**
 
+**[Youtube Recording of Entire Workshop](https://youtu.be/5PIEQI7ximc)**
 ## Program
 
 | Time          | [Recording Offset](https://youtu.be/5PIEQI7ximc)                                                                                                                                                   | Speaker                                                           | Affiliation                      | Talk Title            |
