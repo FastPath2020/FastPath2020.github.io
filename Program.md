@@ -5,7 +5,7 @@ Sunday, August 23, 2020 -- Virtual *(Approximately 9:00 am - 5:00 pm US EDT = 13
 
 ## Program
 
-| Time          | Recording Offset  | Speaker                                                           | Affiliation                      | Talk Title            |
+| Time          | [Recording Offset](https://youtu.be/5PIEQI7ximc)                                                                                                                                                   | Speaker                                                           | Affiliation                      | Talk Title            |
 | ----          | ----              | ----                                                              | ----                             | ----                  |
 |  9:00 -  9:15 | 0:00:00           | Erik Altman, Parijat Dube, Vijay Janapa Reddi | FastPath Chairs                  | *Welcome*             |
 |  9:15 - 10:00 | 0:07:55           | [Vivienne Sze](https://www.csail.mit.edu/person/vivienne-sze) (\*)| MIT                              | [How to Evaluate Efficient Deep Neural Network Approaches](https://fastpath2020.github.io/Sze)                             |
