@@ -7,6 +7,8 @@ In conjunction with **[ISPASS 2020](https://www.ispass.org/ispass2020)**
 
 ## News
 
+**August 27, 2020:** [Youtube Recording of Workshop now Available](https://fastpath2020.github.io/Program)
+
 **July 15, 2020:** Workshop will be virtual via Zoom.
 
 **March 23, 2020:** Final revisions to papers now due July 25 instead of March 25.
