@@ -3,7 +3,7 @@
 
 ### Invited Talk: *Enabling Reproducible ML&Systems Research:  The Good, the Bad and the Ugly*
 
-**[Slides](https://www.reddit.com/r/MachineLearning/comments/ioq8do/n_reproducing_150_research_papers_the_problems)**
+**[Slides](https://zenodo.org/record/4005773)**
 
 **Abstract:**
 
